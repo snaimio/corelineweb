@@ -1,113 +1,130 @@
-# 🌐 Coreline Web – WordPress Project Showcase
+# 🚀 WordPress Developer Portfolio & Project Showcase
 
 <div align="center">
 
-[![Live WordPress Site](https://img.shields.io/badge/Live_Website-corelineweb.wordpress.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://corelineweb.wordpress.com/)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-snaimio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snaimio)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Sheikh_Naim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-naim-704655384/)
-[![CodePen Profile](https://img.shields.io/badge/CodePen-Sheikh--Naim-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sheikh-Naim)
+# Coreline Web
+### *High-Performance WordPress Architecture & Conversion Engineering*
+
+[![Live WordPress Website](https://img.shields.io/badge/Live_Site-corelineweb.wordpress.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://corelineweb.wordpress.com/)
+[![Developer GitHub](https://img.shields.io/badge/GitHub-snaimio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snaimio)
+[![Developer LinkedIn](https://img.shields.io/badge/LinkedIn-Sheikh_Naim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-naim-704655384/)
+[![CodePen Showcase](https://img.shields.io/badge/CodePen-Sheikh--Naim-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sheikh-Naim)
 
 <br />
 
-### *"Designed by Humans, Powered by AI"*
-**A conversion-focused, high-credibility WordPress platform engineered for Ontario small businesses and trades.**
-
-[🔗 Visit Live WordPress Site](https://corelineweb.wordpress.com/) • [📅 Book a Consultation](https://corelineweb.wordpress.com/consult/) • [🛠️ View Services](https://corelineweb.wordpress.com/services/)
+**Live Site:** [https://corelineweb.wordpress.com/](https://corelineweb.wordpress.com/) • **Location:** Ontario, Canada • **Specialization:** Custom WordPress Engineering, Block Themes (FSE), and CRO
 
 </div>
 
 ---
 
-## 📌 Executive Summary
+## 👨‍💻 About The Developer
 
-**Coreline Web** ([`corelineweb.wordpress.com`](https://corelineweb.wordpress.com/)) is a professional web development and digital solutions website created and designed by **Sheikh Naim**. 
+Hi, I'm **Sheikh Naim** — a WordPress Developer and Web Solutions Architect. I design and build fast, responsive, and conversion-focused WordPress websites tailored for small businesses, contractors, and trades.
 
-Most small business websites fail to generate leads because they lack human connection, visible credibility markers, and clear conversion paths. Coreline Web was designed and architected to solve this exact problem:
-
-> *"A website is easy to have. One that builds trust and works for you is not. I solve this by building three essential pillars of credibility directly into your site."*
+This repository serves as a **technical showcase and code breakdown** of my live production website: **[Coreline Web](https://corelineweb.wordpress.com/)**.
 
 ---
 
-## 🏆 The Three Golden Systems
-
-The core value proposition of the Coreline Web build centers on three proprietary trust systems:
+## 🛠️ WordPress Skill Matrix
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                       CORELINE WEB TRUST ENGINE                         │
-├─────────────────────┬──────────────────────┬────────────────────────────┤
-│   VERIFIED BADGES   │   STAFF SPOTLIGHT    │      REVIEW REQUESTER      │
-│                     │                      │                            │
-│  • Visual licenses  │  • Humanizes brand   │  • Automated review pipe   │
-│  • Trade approvals  │  • Real expert faces │  • Fresh social proof      │
-│  • Instant trust    │  • Personal bond     │  • Hands-free reputation   │
-└─────────────────────┴──────────────────────┴────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                              WORDPRESS TECHNICAL SKILLS                                │
+├──────────────────────────┬───────────────────────────┬─────────────────────────────────┤
+│  THEME & BLOCK DEV       │  PERFORMANCE & SEO        │  CONVERSION & UX                │
+│                          │                           │                                 │
+│  • Full Site Editing (FSE│  • 95+ Core Web Vitals    │  • Lead Capture Funnels         │
+│  • custom theme.json     │  • Zero Page-Builder Bloat│  • Automated Review Workflows   │
+│  • Custom Block Patterns │  • Schema.org JSON-LD     │  • Verified Trust Badging       │
+│  • PHP 8.x & Modern JS   │  • Fluid Clamp Typography │  • WCAG 2.1 AA Accessibility    │
+└──────────────────────────┴───────────────────────────┴─────────────────────────────────┘
 ```
-
-### 1. 🛡️ Verified Badges
-* Visual certification markers that prove trade licenses, insurance, and professional credentials.
-* Eliminates initial visitor hesitation and establishes instant industry authority.
-
-### 2. 👥 Staff Spotlight
-* Shifts focus from generic corporate text to real team members and craftspeople.
-* Highlights individual skills, specializations, and local GTA availability.
-
-### 3. ⭐ Review Requester
-* An automated workflow that prompts happy clients for testimonials upon project completion.
-* Streams live star ratings and genuine client feedback directly across the site.
 
 ---
 
-## 📱 Pages & Features Breakdown
+## 🌟 Featured Project: [Coreline Web](https://corelineweb.wordpress.com/)
 
-The live WordPress site features 6 core pages built with block architecture:
+### 🎯 The Problem
+Most local small business websites fail to generate inquiries because:
+1. They lack human connection and team visibility.
+2. They do not prominently showcase verifiable licenses, insurance, or certifications.
+3. They lack an automated pipeline for fresh reviews and client ratings.
 
-| Page | Route | Purpose & Key Features |
+### 💡 The Solution: *The Three Golden Systems*
+I engineered a proprietary 3-pillar credibility architecture directly into WordPress:
+
+```
+                          ┌──────────────────────────┐
+                          │   CORELINE WEB PLATFORM  │
+                          └─────────────┬────────────┘
+                                        │
+         ┌──────────────────────────────┼──────────────────────────────┐
+         ▼                              ▼                              ▼
+┌──────────────────┐          ┌───────────────────┐          ┌──────────────────┐
+│ VERIFIED BADGES  │          │  STAFF SPOTLIGHT  │          │ REVIEW REQUESTER │
+├──────────────────┤          ├───────────────────┤          ├──────────────────┤
+│ Turns licenses,  │          │ Humanizes the     │          │ Automated review │
+│ insurance, and   │          │ brand by showing  │          │ collection and   │
+│ credentials into │          │ real faces, bios, │          │ live social      │
+│ instant trust.   │          │ and expertise.    │          │ proof streaming. │
+└──────────────────┘          └───────────────────┘          └──────────────────┘
+```
+
+---
+
+## 📂 WordPress Implementation in this Repository
+
+This repository includes the core architectural assets used in the build:
+
+| File | Type | Description |
 | :--- | :--- | :--- |
-| **Home** | [`/`](https://corelineweb.wordpress.com/) | Hero value proposition, Three Golden Systems, 4 Growth Pillars, and Managing Director testimonial. |
-| **Services** | [`/services/`](https://corelineweb.wordpress.com/services/) | 6 targeted offerings: Lead Gen Systems, Consulting, Brand Credibility, Mobile-First Design, Website Development, and Local SEO. |
-| **Consultation** | [`/consult/`](https://corelineweb.wordpress.com/consult/) | 30-minute discovery booking with integrated date selection, morning/afternoon time slots, and Canadian phone validation. |
-| **About** | [`/about/`](https://corelineweb.wordpress.com/about/) | Bio of Sheikh Naim, technical philosophy, skills overview, and client rating showcases (Aya Nakamura, Mateo García, Lila Patel). |
-| **FAQ** | [`/faq/`](https://corelineweb.wordpress.com/faq/) | Comprehensive answers covering mobile-first speed, lead funnels, social synchronization, and platform scalability. |
-| **Contact** | [`/contact/`](https://corelineweb.wordpress.com/contact/) | Direct inquiry form for GTA and Ontario business owners to request technical solutions. |
+| [`theme.json`](./theme.json) | WordPress FSE Config | Global color palette (`#2b2c2f`, `#38bdf8`), fluid clamp typography, and layout constraints. |
+| [`style.css`](./style.css) | Theme Metadata | Official WordPress theme header definitions. |
+| [`patterns/three-golden-systems.php`](./patterns/three-golden-systems.php) | Block Pattern | Reusable Full Site Editing pattern for the 3 Golden Systems. |
+| [`index.html`](./index.html) | Standalone Preview | Interactive frontend showcase of the entire live site architecture. |
 
 ---
 
-## ⚙️ Technical Architecture & Design
+## 📑 Live Site Architecture & Pages
 
-* **Platform:** WordPress (Full Site Editing / Block Theme `pub/ron`)
-* **Visual Palette:** Modern Dark Aesthetic
-  * Primary Background: `#2b2c2f`
-  * Text Contrast: `#ffffff` & `#c9c9c9`
-  * Borders & Accents: `#454649`
-* **Typography:**
-  * Headings: **Figtree** (weights 600–900)
-  * Body & Navigation: **Inter** (weights 300–700)
-* **Form & Interaction Layer:** WordPress Jetpack Forms with client-side validation and anti-spam protection.
-* **Responsive Layout:** Fluid clamp typography and column stacking optimized for 60%+ mobile traffic.
+Explore all 6 production pages on the live WordPress site:
+
+1. **[Home Page](https://corelineweb.wordpress.com/)**
+   * High-contrast hero section with value proposition.
+   * Visual demonstration of Verified Badges, Staff Spotlight, and Review Requester.
+   * Managing Director client testimonial banner.
+2. **[Services Catalog](https://corelineweb.wordpress.com/services/)**
+   * 6 dedicated solutions: *Lead Generation Systems*, *Strategic Consulting*, *Brand Credibility*, *Mobile-First Design*, *Custom Website Development*, and *Local SEO*.
+3. **[Consultation Booking](https://corelineweb.wordpress.com/consult/)**
+   * 30-minute discovery session booking form with date picker and morning/afternoon time window selection.
+4. **[About Page](https://corelineweb.wordpress.com/about/)**
+   * Professional biography, technical philosophy, and verified 5-star ratings from *Aya Nakamura*, *Mateo García*, and *Lila Patel*.
+5. **[FAQ Page](https://corelineweb.wordpress.com/faq/)**
+   * Answers addressing mobile-first performance, lead generation paths, and scalability.
+6. **[Contact Page](https://corelineweb.wordpress.com/contact/)**
+   * Clean contact form tailored for Ontario and GTA business inquiries.
 
 ---
 
-## 💬 Client Testimonials Featured on the Site
+## 💬 What Clients Say
 
 > *"Working with Coreline Web changed how we view our digital presence. Our new technical infrastructure has given us the credibility we needed to compete in a crowded local market. We finally have a website that works as hard as we do."*  
 > **— Jurgen Antonio, Managing Director, Green Host Solutions**
 
-> *"I couldn’t be happier with the outcome of our project. The work quality is outstanding, and the strategic attention to detail was impressive. I’ll definitely partner with Coreline Web again for future needs!"*  
-> **— Aya Nakamura**
-
 ---
 
-## 👨‍💻 Author & Connect
+## 📬 Contact & Collaborate
 
-* **Website:** [https://corelineweb.wordpress.com/](https://corelineweb.wordpress.com/)
-* **Developer:** **Sheikh Naim**
-* **GitHub:** [https://github.com/snaimio](https://github.com/snaimio)
+Looking to build a custom WordPress website, improve conversion rates, or optimize site speed?
+
+* **Live Website:** [https://corelineweb.wordpress.com/](https://corelineweb.wordpress.com/)
+* **GitHub Profile:** [https://github.com/snaimio](https://github.com/snaimio)
 * **LinkedIn:** [https://www.linkedin.com/in/sheikh-naim-704655384/](https://www.linkedin.com/in/sheikh-naim-704655384/)
 * **CodePen:** [https://codepen.io/Sheikh-Naim](https://codepen.io/Sheikh-Naim)
 
 ---
 
 <div align="center">
-  <sub>© 2026 Sheikh Naim. All rights reserved. Live site built on <a href="https://wordpress.com">WordPress</a>.</sub>
+  <sub>© 2026 Sheikh Naim. Crafted with WordPress standards.</sub>
 </div>
