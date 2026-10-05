@@ -4,15 +4,16 @@
 
 [![Live WordPress Website](https://img.shields.io/badge/Live_WordPress_Site-corelineweb.wordpress.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://corelineweb.wordpress.com/)
 [![WordPress FSE](https://img.shields.io/badge/Platform-WordPress_Block_Editor_(FSE)-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com)
-[![Developer GitHub](https://img.shields.io/badge/Developer-Sheikh_Naim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snaimio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-naim-704655384/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-snaimio.github.io-0A66C2?style=for-the-badge)](https://snaimio.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snaimio)
+[![License](https://img.shields.io/badge/License-MIT-CEFF00?style=for-the-badge&logoColor=black)](LICENSE)
 
 <br />
 
 ### 🎯 WordPress Production Case Study
 **A high-conversion, credibility-focused commercial website designed and built using the WordPress Block Editor & Full Site Editing (FSE).**
 
-[🔗 Explore Live WordPress Site](https://corelineweb.wordpress.com/) • [📅 View Consultation Workflow](https://corelineweb.wordpress.com/consult/) • [🛠️ View Services Architecture](https://corelineweb.wordpress.com/services/)
+[🔗 Explore Live WordPress Site](https://corelineweb.wordpress.com/) • [📅 View Consultation Workflow](https://corelineweb.wordpress.com/consult/) • [🛠️ View Services Architecture](https://corelineweb.wordpress.com/services/) • [📄 License](#-license)
 
 </div>
 
@@ -95,12 +96,13 @@ The live production site includes 6 comprehensive pages:
 ## 📬 Contact & Portfolio Links
 
 * **Live WordPress Website:** [https://corelineweb.wordpress.com/](https://corelineweb.wordpress.com/)
+* **Portfolio Website:** [https://snaimio.github.io](https://snaimio.github.io)
 * **GitHub Profile:** [https://github.com/snaimio](https://github.com/snaimio)
-* **LinkedIn:** [https://www.linkedin.com/in/sheikh-naim-704655384/](https://www.linkedin.com/in/sheikh-naim-704655384/)
+* **LinkedIn:** [https://www.linkedin.com/in/snaimio](https://www.linkedin.com/in/snaimio)
 * **CodePen:** [https://codepen.io/Sheikh-Naim](https://codepen.io/Sheikh-Naim)
 
 ---
 
-<div align="center">
-  <sub>© 2026 Sheikh Naim • WordPress Production Project Showcase</sub>
-</div>
+## 📄 License
+
+This project is open source and licensed under the [MIT License](LICENSE).
