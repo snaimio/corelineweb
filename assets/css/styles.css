@@ -273,6 +273,101 @@ a {
   border-radius: var(--radius-sm);
 }
 
+/* WordPress Brand Accent & Highlight */
+:root {
+  --wp-blue: #0073aa;
+  --wp-blue-light: #38bdf8;
+  --wp-gradient: linear-gradient(135deg, #0073aa 0%, #00a0d2 50%, #38bdf8 100%);
+  --wp-glow: 0 0 30px rgba(0, 115, 170, 0.35);
+}
+
+.wp-highlight-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 1.15rem;
+  background: rgba(0, 115, 170, 0.15);
+  border: 1px solid rgba(0, 160, 210, 0.4);
+  border-radius: var(--radius-full);
+  color: #38bdf8;
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0 15px rgba(0, 115, 170, 0.2);
+}
+
+.wp-highlight-badge svg {
+  color: #38bdf8;
+}
+
+.wp-flagship-card {
+  border: 1.5px solid rgba(56, 189, 248, 0.45) !important;
+  background: linear-gradient(180deg, rgba(0, 115, 170, 0.12) 0%, var(--bg-card) 60%) !important;
+  position: relative;
+  box-shadow: 0 10px 35px rgba(0, 115, 170, 0.25) !important;
+}
+
+.wp-flagship-pill {
+  position: absolute;
+  top: -12px;
+  right: 20px;
+  background: var(--wp-gradient);
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 0.25rem 0.85rem;
+  border-radius: var(--radius-full);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  box-shadow: 0 4px 12px rgba(0, 115, 170, 0.4);
+}
+
+.wp-feature-strip {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+  margin: 3.5rem 0 2rem;
+}
+
+.wp-feature-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+  text-align: center;
+  transition: var(--transition);
+}
+
+.wp-feature-item:hover {
+  border-color: var(--accent-cyan);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
+
+.wp-feature-item .wp-icon-circle {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  background: rgba(0, 115, 170, 0.15);
+  color: #38bdf8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 0.85rem;
+}
+
+@media (max-width: 1024px) {
+  .wp-feature-strip {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .wp-feature-strip {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Page Frame & Sections */
 .main-content {
   flex: 1;
