@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initFaqAccordion();
   initContactForm();
   initDateConstraints();
+  initPrivacyModal();
 });
 
 /* Router & Navigation */
@@ -400,6 +401,18 @@ function showToast(message, type = 'success') {
     toast.style.transition = 'all 0.3s ease';
     setTimeout(() => toast.remove(), 300);
   }, 4000);
+}
+
+/* Privacy Modal Handler */
+function initPrivacyModal() {
+  const privacyBtn = document.getElementById('open-privacy-btn');
+  const privacyModal = document.getElementById('privacy-modal');
+  if (privacyBtn && privacyModal) {
+    privacyBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      privacyModal.classList.add('active');
+    });
+  }
 }
 
 /* Helper Utilities */
